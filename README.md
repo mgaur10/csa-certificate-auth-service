@@ -1,5 +1,5 @@
 # Demo Guide
-This demo uses terraform to setup Certificate Authority Certificate demo in a project and underlying infrastructure using Google Cloud Services like [Certificate Authority Service](https://cloud.google.com/certificate-authority-service) and [Cloud Storage](https://cloud.google.com/storage).
+This Cloud Security Architecture uses terraform to setup Certificate Authority Certificate demo in a project and underlying infrastructure using Google Cloud Services like [Certificate Authority Service](https://cloud.google.com/certificate-authority-service) and [Cloud Storage](https://cloud.google.com/storage).
 
 
 ## Demo Architecture Diagram
